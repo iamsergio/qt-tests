@@ -4,3 +4,7 @@ release/
 debug/
 *pro.user
 *png
+*.o
+ui_*h
+moc_*
+qcombo-box-big-text
